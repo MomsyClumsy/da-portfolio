@@ -1,0 +1,3090 @@
+{
+ "export": {
+  "version": "v1",
+  "entries": {
+   "dash": {
+    "7": {
+     "dash": {
+      "data": {
+       "salt": "0.4492902103680244",
+       "tabs": [
+        {
+         "id": "8q",
+         "items": [
+          {
+           "id": "za",
+           "data": {
+            "tabs": [
+             {
+              "id": "WM",
+              "hint": "",
+              "title": "DAU",
+              "params": {
+               "data": []
+              },
+              "chartId": "8",
+              "isDefault": true,
+              "autoHeight": false,
+              "background": {
+               "color": "like-chart-bg"
+              },
+              "enableHint": false,
+              "description": "",
+              "enableDescription": false
+             }
+            ],
+            "hideTitle": false
+           },
+           "type": "widget",
+           "namespace": "default"
+          },
+          {
+           "id": "aN",
+           "data": {
+            "tabs": [
+             {
+              "id": "qw",
+              "hint": "",
+              "title": "Средний чек по месяцам",
+              "params": {
+               "month": []
+              },
+              "chartId": "6",
+              "isDefault": true,
+              "autoHeight": false,
+              "background": {
+               "color": "like-chart-bg"
+              },
+              "enableHint": false,
+              "description": "",
+              "enableDescription": false
+             }
+            ],
+            "hideTitle": false
+           },
+           "type": "widget",
+           "namespace": "default"
+          },
+          {
+           "id": "Ye",
+           "data": {
+            "tabs": [
+             {
+              "id": "Pw",
+              "hint": "",
+              "title": "CR",
+              "params": {},
+              "chartId": "9",
+              "isDefault": true,
+              "autoHeight": false,
+              "background": {
+               "color": "like-chart-bg"
+              },
+              "enableHint": false,
+              "description": "",
+              "enableDescription": false
+             }
+            ],
+            "hideTitle": false
+           },
+           "type": "widget",
+           "namespace": "default"
+          },
+          {
+           "id": "57",
+           "data": {
+            "tabs": [
+             {
+              "id": "nK",
+              "hint": "",
+              "title": "RR первой недели после установки приложения",
+              "params": {},
+              "chartId": "0",
+              "isDefault": true,
+              "autoHeight": false,
+              "background": {
+               "color": "like-chart-bg"
+              },
+              "enableHint": false,
+              "description": "",
+              "enableDescription": false
+             }
+            ],
+            "hideTitle": false
+           },
+           "type": "widget",
+           "namespace": "default"
+          },
+          {
+           "id": "xm",
+           "data": {
+            "tabs": [
+             {
+              "id": "Zn",
+              "hint": "",
+              "title": "RR первой недели по месяцам",
+              "params": {},
+              "chartId": "2",
+              "isDefault": true,
+              "autoHeight": false,
+              "background": {
+               "color": "like-chart-bg"
+              },
+              "enableHint": false,
+              "description": "",
+              "enableDescription": false
+             }
+            ],
+            "hideTitle": false
+           },
+           "type": "widget",
+           "namespace": "default"
+          },
+          {
+           "id": "4M",
+           "data": {
+            "tabs": [
+             {
+              "id": "Qj",
+              "hint": "",
+              "title": "LTV блюд",
+              "params": {},
+              "chartId": "4",
+              "isDefault": true,
+              "autoHeight": false,
+              "background": {
+               "color": "like-chart-bg"
+              },
+              "enableHint": false,
+              "description": "",
+              "enableDescription": false
+             }
+            ],
+            "hideTitle": false
+           },
+           "type": "widget",
+           "namespace": "default"
+          },
+          {
+           "id": "oe",
+           "data": {
+            "tabs": [
+             {
+              "id": "lM",
+              "hint": "",
+              "title": "LTV ресторанов",
+              "params": {},
+              "chartId": "3",
+              "isDefault": true,
+              "autoHeight": false,
+              "background": {
+               "color": "like-chart-bg"
+              },
+              "enableHint": false,
+              "description": "",
+              "enableDescription": false
+             }
+            ],
+            "hideTitle": false
+           },
+           "type": "widget",
+           "namespace": "default"
+          }
+         ],
+         "title": "Данные",
+         "layout": [
+          {
+           "h": 15,
+           "i": "za",
+           "w": 18,
+           "x": 0,
+           "y": 0
+          },
+          {
+           "h": 14,
+           "i": "aN",
+           "w": 11,
+           "x": 25,
+           "y": 15
+          },
+          {
+           "h": 15,
+           "i": "Ye",
+           "w": 18,
+           "x": 18,
+           "y": 0
+          },
+          {
+           "h": 14,
+           "i": "57",
+           "w": 12,
+           "x": 0,
+           "y": 15
+          },
+          {
+           "h": 14,
+           "i": "xm",
+           "w": 13,
+           "x": 12,
+           "y": 15
+          },
+          {
+           "h": 10,
+           "i": "4M",
+           "w": 17,
+           "x": 0,
+           "y": 29
+          },
+          {
+           "h": 10,
+           "i": "oe",
+           "w": 19,
+           "x": 17,
+           "y": 29
+          }
+         ],
+         "aliases": {
+          "default": [
+           [
+            "df8d3510-51e5-11f1-8094-51f49ec7f271",
+            "month"
+           ]
+          ]
+         },
+         "connections": []
+        },
+        {
+         "id": "mW",
+         "items": [
+          {
+           "id": "2r",
+           "data": {
+            "text": "Проект: «Ключевые бизнес-метрики в Саранске (май — июнь 2021)»\\\nАвтор:  Комкова Марина\\\nДата: 19.05.2026\n\nЦель проекта\n\nПроанализировать динамику ключевых продуктовых метрик (DAU, CR, средний чек, retention, LTV) и предложить рекомендации для роста сервиса.\n\nРезультаты анализа ключевых метрик\n\n1. DAU (ежедневная активная аудитория)\n\nТренд:\nВ течение мая наблюдается разброс значение от 17 - самое низкое значение до 85 - самое высокое значение. В июне виден кратковременный рост (до 80\\+), после чего происходит постепенное снижение к концу месяца (\\~30–40).\n\nВыводы:\n\nВ начале июня был приток пользователей (возможна акция или маркетинговая активность).\nК концу июня наблюдается отток или снижение вовлечённости.\n\nВозможные причины:\n\nЗавершение рекламных кампаний\nСезонность (погода, отпуска)\nСнижение интереса к продукту\n\n2. Conversion Rate (CR)\n\nТренд:\nCR нестабилен: колеблется в диапазоне \\~18%–43%. Нет выраженного роста или падения, но наблюдаются резкие скачки.\n\nВыводы:\n\nКонверсия неустойчива → есть проблемы в воронке\nВероятно, влияние внешних факторов (акции, UX, ассортимент)\n\nВозможные причины:\n\nНеудобный интерфейс заказа\nОграниченный выбор ресторанов/блюд\nПроблемы с доставкой\n\n3. Средний чек\n\nТренд:\n\nМай: 135,88\nИюнь: 147,66\n→ рост примерно на 8,7%\n\nВыводы:\n\nПользователи стали тратить больше\nВозможен рост цен или изменение структуры заказов\n\nВозможные причины:\n\nУвеличение доли дорогих ресторанов\nИнфляция или изменение меню\n\n4. Retention Rate (удержание)\n\nТренд:\n\nРезкое падение: с 100% (день 0) до \\~14% (день 1)\nК 7 дню остаётся около 4%\n\nВыводы:\n\nСлабое удержание пользователей\nБольшинство не возвращаются после первого заказа\n\nВозможные причины:\n\nНегативный первый опыт\nДолгая доставка / плохое качество\nНет причин возвращаться (отсутствие бонусов)\n\n5. LTV ресторанов\n\nТоп-3 по LTV:\n\nГурманское Наслаждение — 170 479\nГастрономический Шторм — 164 508\nШоколадный Рай — 74 392\n\nАнализ:\n\nОсновной вклад дают рестораны (не кондитерские)\nВысокий LTV связан с разнообразием и популярностью блюд\n\nПопулярные блюда:\n\nОсновные блюда (мясо, рыба)\nСложные блюда (с соусами, гарнирами)\nНет выраженной доли острых блюд\n\nВыводы:\n\nПользователи предпочитают полноценные приёмы пищи\nВысокий LTV у ресторанов с разнообразным меню\n\nОбщие выводы и рекомендации\n\n* Сделать упор на удержание: добавить бонусы, пуши и мотивировать на повторные заказы\n* Стабилизировать конверсию: улучшить UX и разобраться с воронкой\n* Увеличить DAU: чаще запускать маркетинг и акции\n* Развивать ассортимент: усиливать сотрудничество с топ-ресторанами",
+            "autoHeight": false,
+            "background": {
+             "color": "transparent"
+            }
+           },
+           "type": "text",
+           "namespace": "default"
+          }
+         ],
+         "title": "Аналитическая записка",
+         "layout": [
+          {
+           "h": 28,
+           "i": "2r",
+           "w": 36,
+           "x": 0,
+           "y": 0
+          }
+         ],
+         "aliases": {},
+         "connections": []
+        }
+       ],
+       "counter": 21,
+       "settings": {
+        "hideTabs": false,
+        "expandTOC": false,
+        "globalParams": {},
+        "loadPriority": "charts",
+        "hideDashTitle": false,
+        "silentLoading": false,
+        "autoupdateInterval": null,
+        "dependentSelectors": true,
+        "loadOnlyVisibleCharts": true,
+        "maxConcurrentRequests": null
+       },
+       "schemeVersion": 8
+      },
+      "name": "Ключевые бизнес-метрики в Саранске (май — июнь 2021)",
+      "annotation": {
+       "description": ""
+      }
+     }
+    }
+   },
+   "widget": {
+    "0": {
+     "widget": {
+      "data": {
+       "shared": {
+        "type": "ql",
+        "order": null,
+        "colors": [],
+        "labels": [],
+        "params": [],
+        "shapes": [],
+        "queries": [],
+        "version": "7",
+        "tooltips": [],
+        "chartType": "sql",
+        "connection": {
+         "type": "postgres",
+         "entryId": "1",
+         "dataExportForbidden": false
+        },
+        "queryValue": "-- Рассчитываем новых пользователей по дате первого посещения продукта\r\nWITH new_users AS\r\n  (SELECT DISTINCT first_date,\r\n                   user_id\r\n   FROM rest_analytics.analytics_events AS events\r\n   JOIN rest_analytics.cities cities ON events.city_id = cities.city_id\r\n   WHERE first_date BETWEEN '2021-05-01' AND '2021-06-24'\r\n     AND city_name = 'Саранск'),\r\n-- Рассчитываем активных пользователей по дате события\r\nactive_users AS\r\n  (SELECT DISTINCT log_date,\r\n                   user_id\r\n   FROM rest_analytics.analytics_events AS events\r\n   JOIN rest_analytics.cities cities ON events.city_id = cities.city_id\r\n   WHERE log_date BETWEEN '2021-05-01' AND '2021-06-30'\r\n     AND city_name = 'Саранск'),\r\ndaily_retention AS\r\n  (SELECT n.user_id,\r\n          first_date,\r\n          log_date::date - first_date::date AS day_since_install\r\n   FROM new_users AS n\r\n   JOIN active_users AS a ON n.user_id = a.user_id\r\n   AND log_date >= first_date)\r\nSELECT day_since_install,\r\n       COUNT(DISTINCT user_id) AS retained_users,\r\n       ROUND((1.0 * COUNT(DISTINCT user_id) / MAX(COUNT(DISTINCT user_id)) OVER (ORDER BY day_since_install))::numeric, 2) AS retention_rate\r\nFROM daily_retention\r\nWHERE day_since_install < 8\r\nGROUP BY day_since_install\r\nORDER BY day_since_install;",
+        "colorsConfig": {},
+        "shapesConfig": {},
+        "extraSettings": {
+         "limit": 100,
+         "pagination": "on"
+        },
+        "visualization": {
+         "id": "flatTable",
+         "name": "label_visualization-flat-table",
+         "type": "table",
+         "allowSort": false,
+         "iconProps": {
+          "id": "visFlatTable",
+          "width": "24"
+         },
+         "allowColors": true,
+         "allowFilters": false,
+         "placeholders": [
+          {
+           "id": "flat-table-columns",
+           "type": "flat-table-columns",
+           "items": [
+            {
+             "cast": "integer",
+             "guid": "day_since_install",
+             "type": "DIMENSION",
+             "title": "day_since_install",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "integer",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "integer",
+             "guid": "retained_users",
+             "type": "DIMENSION",
+             "title": "retained_users",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "integer",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "float",
+             "guid": "retention_rate",
+             "type": "DIMENSION",
+             "title": "retention_rate",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "float",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            }
+           ],
+           "title": "section_columns",
+           "required": true,
+           "settings": {
+            "groupping": "on"
+           },
+           "iconProps": {},
+           "allowedTypes": {}
+          }
+         ],
+         "allowSegments": false,
+         "allowAvailable": true,
+         "allowLayerFilters": false
+        },
+        "geopointsConfig": {}
+       }
+      },
+      "name": "RR на 7 день активности",
+      "type": "table_ql_node",
+      "version": null,
+      "annotation": {
+       "description": ""
+      }
+     }
+    },
+    "2": {
+     "widget": {
+      "data": {
+       "shared": {
+        "type": "ql",
+        "order": null,
+        "colors": [
+         {
+          "id": "inserted-1779016427268",
+          "cast": "date",
+          "guid": "Месяц",
+          "type": "DIMENSION",
+          "title": "Месяц",
+          "noEdit": true,
+          "calc_mode": "direct",
+          "data_type": "date",
+          "datasetId": "ql-mocked-dataset",
+          "formulaHidden": true,
+          "inspectHidden": true
+         }
+        ],
+        "labels": [
+         {
+          "id": "inserted-1779016474275",
+          "cast": "integer",
+          "guid": "retained_users",
+          "type": "DIMENSION",
+          "title": "retained_users",
+          "noEdit": true,
+          "calc_mode": "direct",
+          "data_type": "integer",
+          "datasetId": "ql-mocked-dataset",
+          "formulaHidden": true,
+          "inspectHidden": true
+         }
+        ],
+        "params": [],
+        "shapes": [],
+        "queries": [],
+        "version": "7",
+        "tooltips": [],
+        "chartType": "sql",
+        "connection": {
+         "type": "postgres",
+         "entryId": "1",
+         "dataExportForbidden": false
+        },
+        "queryValue": "-- Рассчитываем новых пользователей по дате первого посещения продукта\r\nWITH new_users AS\r\n  (SELECT DISTINCT first_date,\r\n                   user_id\r\n   FROM rest_analytics.analytics_events AS events\r\n   JOIN rest_analytics.cities cities ON events.city_id = cities.city_id\r\n   WHERE first_date BETWEEN '2021-05-01' AND '2021-06-24'\r\n     AND city_name = 'Саранск'),\r\n-- Рассчитываем активных пользователей по дате события\r\nactive_users AS\r\n  (SELECT DISTINCT log_date,\r\n                   user_id\r\n   FROM rest_analytics.analytics_events AS events\r\n   JOIN rest_analytics.cities cities ON events.city_id = cities.city_id\r\n   WHERE log_date BETWEEN '2021-05-01' AND '2021-06-30'\r\n     AND city_name = 'Саранск'),\r\n-- Соединяем таблицы с новыми и активными пользователями\r\ndaily_retention AS\r\n  (SELECT n.user_id,\r\n          first_date,\r\n          log_date::date - first_date::date AS day_since_install\r\n   FROM new_users AS n\r\n   JOIN active_users AS a ON n.user_id = a.user_id\r\n   AND log_date >= first_date)\r\nSELECT DISTINCT CAST(DATE_TRUNC('month', first_date) AS date) AS \"Месяц\",\r\n                day_since_install,\r\n                COUNT(DISTINCT user_id) AS retained_users,\r\n                ROUND((1.0 * COUNT(DISTINCT user_id) / MAX(COUNT(DISTINCT user_id)) OVER (PARTITION BY CAST(DATE_TRUNC('month', first_date) AS date)\r\nORDER BY day_since_install))::numeric, 2) AS retention_rate\r\nFROM daily_retention\r\nWHERE day_since_install < 8\r\nGROUP BY \"Месяц\", day_since_install\r\nORDER BY \"Месяц\", day_since_install;",
+        "colorsConfig": {},
+        "shapesConfig": {},
+        "extraSettings": {
+         "feed": "",
+         "title": "Новый чарт",
+         "stacking": "on",
+         "zoomMode": "auto",
+         "titleMode": "hide",
+         "legendMode": "show",
+         "tooltipSum": "on",
+         "mapCenterMode": "auto",
+         "labelsPosition": "outside",
+         "pivotInlineSort": "on",
+         "navigatorSettings": {
+          "selectedLines": [],
+          "isNavigatorAvailable": false
+         },
+         "indicatorTitleMode": "by-field"
+        },
+        "visualization": {
+         "id": "column",
+         "name": "label_visualization-column",
+         "type": "column",
+         "allowSort": false,
+         "iconProps": {
+          "id": "visColumn",
+          "width": "24"
+         },
+         "allowColors": true,
+         "allowLabels": true,
+         "allowFilters": false,
+         "placeholders": [
+          {
+           "id": "x",
+           "type": "x",
+           "items": [
+            {
+             "id": "inserted-1779016332007",
+             "cast": "integer",
+             "guid": "day_since_install",
+             "type": "DIMENSION",
+             "title": "day_since_install",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "integer",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "id": "inserted-1779016346837",
+             "cast": "date",
+             "guid": "Месяц",
+             "type": "DIMENSION",
+             "title": "Месяц",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "date",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            }
+           ],
+           "title": "section_x",
+           "capacity": 2,
+           "required": false,
+           "settings": {
+            "grid": "on",
+            "type": "linear",
+            "title": "off",
+            "gridStep": "auto",
+            "holidays": "off",
+            "hideLabels": "no",
+            "labelsView": "auto",
+            "titleValue": "",
+            "axisModeMap": {
+             "day_since_install": "discrete"
+            },
+            "gridStepValue": 50,
+            "axisFormatMode": "auto",
+            "axisVisibility": "show",
+            "disableAxisMode": true,
+            "axisLabelFormating": {},
+            "axisLabelDateFormat": "DD.MM.YYYY"
+           },
+           "iconProps": {},
+           "allowedTypes": {},
+           "allowedDataTypes": {}
+          },
+          {
+           "id": "y",
+           "type": "y",
+           "items": [
+            {
+             "id": "inserted-1779016293372",
+             "cast": "float",
+             "guid": "retention_rate",
+             "type": "DIMENSION",
+             "title": "retention_rate",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "float",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            }
+           ],
+           "title": "section_y",
+           "settings": {
+            "grid": "on",
+            "type": "linear",
+            "nulls": "ignore",
+            "scale": "auto",
+            "title": "off",
+            "gridStep": "auto",
+            "hideLabels": "no",
+            "labelsView": "auto",
+            "scaleValue": "min-max",
+            "titleValue": "",
+            "axisModeMap": {
+             "retention_rate": "discrete"
+            },
+            "gridStepValue": 50,
+            "axisFormatMode": "auto",
+            "axisVisibility": "show",
+            "axisLabelFormating": {},
+            "axisLabelDateFormat": "DD.MM.YYYY"
+           },
+           "iconProps": {},
+           "allowedTypes": {},
+           "allowedDataTypes": {},
+           "allowedFinalTypes": {}
+          }
+         ],
+         "allowSegments": false,
+         "allowAvailable": true,
+         "colorsCapacity": 1,
+         "shapesCapacity": 1,
+         "allowLayerFilters": false,
+         "availableLabelModes": [
+          "absolute"
+         ]
+        },
+        "geopointsConfig": {}
+       }
+      },
+      "name": "RR первой недели по месяцам",
+      "type": "d3_ql_node",
+      "version": null,
+      "annotation": {
+       "description": ""
+      }
+     }
+    },
+    "3": {
+     "widget": {
+      "data": {
+       "shared": {
+        "type": "ql",
+        "order": null,
+        "colors": [],
+        "labels": [],
+        "params": [],
+        "shapes": [],
+        "queries": [],
+        "version": "7",
+        "tooltips": [],
+        "chartType": "sql",
+        "connection": {
+         "type": "postgres",
+         "entryId": "1",
+         "dataExportForbidden": false
+        },
+        "queryValue": "-- Рассчитываем величину комиссии с каждого заказа, отбираем заказы по дате и городу\r\nWITH orders AS\r\n  (SELECT events.rest_id,\r\n          events.city_id,\r\n          revenue * commission AS commission_revenue\r\n   FROM rest_analytics.analytics_events AS events\r\n   JOIN rest_analytics.cities cities ON events.city_id = cities.city_id\r\n   WHERE revenue IS NOT NULL\r\n     AND log_date BETWEEN '2021-05-01' AND '2021-06-30'\r\n     AND city_name = 'Саранск')\r\nSELECT chain AS \"Название сети\",\r\n       type AS \"Тип кухни\",\r\n       ROUND(SUM(commission_revenue)::numeric, 2) AS LTV\r\nFROM orders\r\nJOIN rest_analytics.partners ON orders.rest_id = partners.rest_id AND orders.city_id = partners.city_id\r\nGROUP BY 1, 2\r\nORDER BY LTV DESC\r\nLIMIT 3;\r\n",
+        "colorsConfig": {},
+        "shapesConfig": {},
+        "extraSettings": {
+         "limit": 100,
+         "pagination": "on"
+        },
+        "visualization": {
+         "id": "flatTable",
+         "name": "label_visualization-flat-table",
+         "type": "table",
+         "allowSort": false,
+         "iconProps": {
+          "id": "visFlatTable",
+          "width": "24"
+         },
+         "allowColors": true,
+         "allowFilters": false,
+         "placeholders": [
+          {
+           "id": "flat-table-columns",
+           "type": "flat-table-columns",
+           "items": [
+            {
+             "cast": "string",
+             "guid": "Название сети",
+             "type": "DIMENSION",
+             "title": "Название сети",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "string",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "string",
+             "guid": "Тип кухни",
+             "type": "DIMENSION",
+             "title": "Тип кухни",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "string",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "float",
+             "guid": "ltv",
+             "type": "DIMENSION",
+             "title": "ltv",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "float",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            }
+           ],
+           "title": "section_columns",
+           "required": true,
+           "settings": {
+            "groupping": "on"
+           },
+           "iconProps": {},
+           "allowedTypes": {}
+          }
+         ],
+         "allowSegments": false,
+         "allowAvailable": true,
+         "allowLayerFilters": false
+        },
+        "geopointsConfig": {}
+       }
+      },
+      "name": "LTV ресторанов",
+      "type": "table_ql_node",
+      "version": null,
+      "annotation": {
+       "description": ""
+      }
+     }
+    },
+    "4": {
+     "widget": {
+      "data": {
+       "shared": {
+        "type": "ql",
+        "order": null,
+        "colors": [],
+        "labels": [],
+        "params": [],
+        "shapes": [],
+        "queries": [],
+        "version": "7",
+        "tooltips": [],
+        "chartType": "sql",
+        "connection": {
+         "type": "postgres",
+         "entryId": "1",
+         "dataExportForbidden": false
+        },
+        "queryValue": "-- Рассчитываем величину комиссии с каждого заказа, фильтруем заказы по дате и городу\r\nWITH orders AS\r\n  (SELECT events.rest_id,\r\n          events.city_id,\r\n          events.object_id,\r\n          revenue * commission AS commission_revenue\r\n   FROM rest_analytics.analytics_events AS events\r\n   JOIN rest_analytics.cities cities ON events.city_id = cities.city_id\r\n   WHERE revenue IS NOT NULL\r\n     AND log_date BETWEEN '2021-05-01' AND '2021-06-30'\r\n     AND city_name = 'Саранск'), \r\n-- Рассчитываем два ресторана с наибольшим LTV\r\ntop_ltv_restaurants AS\r\n  (SELECT orders.rest_id,\r\n          chain,\r\n          type,\r\n          ROUND(SUM(commission_revenue)::numeric, 2) AS LTV\r\n   FROM orders\r\n   JOIN rest_analytics.partners partners ON orders.rest_id = partners.rest_id AND orders.city_id = partners.city_id \r\n   GROUP BY 1, 2, 3\r\n   ORDER BY LTV DESC\r\n   LIMIT 2)\r\nSELECT chain AS \"Название сети\",\r\n       dishes.name AS \"Название блюда\",\r\n       spicy,\r\n       fish,\r\n       meat,\r\n       ROUND(SUM(orders.commission_revenue)::numeric, 2) AS LTV\r\nFROM orders\r\nJOIN top_ltv_restaurants ON orders.rest_id = top_ltv_restaurants.rest_id\r\nJOIN rest_analytics.dishes dishes ON orders.object_id = dishes.object_id\r\nAND top_ltv_restaurants.rest_id = dishes.rest_id\r\nGROUP BY 1, 2, 3, 4, 5\r\nORDER BY LTV DESC\r\nLIMIT 5;\r\n",
+        "colorsConfig": {},
+        "shapesConfig": {},
+        "extraSettings": {
+         "limit": 100,
+         "pagination": "on"
+        },
+        "visualization": {
+         "id": "flatTable",
+         "name": "label_visualization-flat-table",
+         "type": "table",
+         "allowSort": false,
+         "iconProps": {
+          "id": "visFlatTable",
+          "width": "24"
+         },
+         "allowColors": true,
+         "allowFilters": false,
+         "placeholders": [
+          {
+           "id": "flat-table-columns",
+           "type": "flat-table-columns",
+           "items": [
+            {
+             "cast": "string",
+             "guid": "Название сети",
+             "type": "DIMENSION",
+             "title": "Название сети",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "string",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "string",
+             "guid": "Название блюда",
+             "type": "DIMENSION",
+             "title": "Название блюда",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "string",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "integer",
+             "guid": "spicy",
+             "type": "DIMENSION",
+             "title": "spicy",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "integer",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "integer",
+             "guid": "fish",
+             "type": "DIMENSION",
+             "title": "fish",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "integer",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "integer",
+             "guid": "meat",
+             "type": "DIMENSION",
+             "title": "meat",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "integer",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "float",
+             "guid": "ltv",
+             "type": "DIMENSION",
+             "title": "ltv",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "float",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            }
+           ],
+           "title": "section_columns",
+           "required": true,
+           "settings": {
+            "groupping": "on"
+           },
+           "iconProps": {},
+           "allowedTypes": {}
+          }
+         ],
+         "allowSegments": false,
+         "allowAvailable": true,
+         "allowLayerFilters": false
+        },
+        "geopointsConfig": {}
+       }
+      },
+      "name": "LTV блюд",
+      "type": "table_ql_node",
+      "version": null,
+      "annotation": {
+       "description": ""
+      }
+     }
+    },
+    "6": {
+     "widget": {
+      "data": {
+       "shared": {
+        "type": "ql",
+        "order": null,
+        "colors": [],
+        "labels": [],
+        "params": [
+         {
+          "name": "month",
+          "type": "string",
+          "defaultValue": ""
+         }
+        ],
+        "shapes": [],
+        "queries": [],
+        "version": "7",
+        "tooltips": [],
+        "chartType": "sql",
+        "connection": {
+         "type": "postgres",
+         "entryId": "1",
+         "dataExportForbidden": false
+        },
+        "queryValue": "-- Рассчитываем величину комиссии с каждого заказа, отбираем заказы по дате и городу\r\nWITH orders AS\r\n  (SELECT *,\r\n          revenue * commission AS commission_revenue\r\n   FROM rest_analytics.analytics_events AS events\r\n   JOIN rest_analytics.cities cities ON events.city_id = cities.city_id\r\n   WHERE revenue IS NOT NULL\r\n     AND log_date BETWEEN '2021-05-01' AND '2021-06-30'\r\n     AND city_name = 'Саранск')\r\nSELECT CAST(DATE_TRUNC('month', log_date) AS date) AS \"Месяц\",\r\n       COUNT(DISTINCT order_id) AS \"Количество заказов\",\r\n       ROUND(SUM(commission_revenue)::numeric, 2) AS \"Сумма комиссии\",\r\n       ROUND((SUM(commission_revenue) / COUNT(DISTINCT order_id))::numeric, 2) \"Средний чек\"\r\nFROM orders\r\nGROUP BY \"Месяц\"\r\nORDER BY \"Месяц\";",
+        "colorsConfig": {},
+        "shapesConfig": {},
+        "extraSettings": {
+         "limit": 100,
+         "pagination": "on"
+        },
+        "visualization": {
+         "id": "flatTable",
+         "name": "label_visualization-flat-table",
+         "type": "table",
+         "allowSort": false,
+         "iconProps": {
+          "id": "visFlatTable",
+          "width": "24"
+         },
+         "allowColors": true,
+         "allowFilters": false,
+         "placeholders": [
+          {
+           "id": "flat-table-columns",
+           "type": "flat-table-columns",
+           "items": [
+            {
+             "cast": "date",
+             "guid": "Месяц",
+             "type": "DIMENSION",
+             "title": "Месяц",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "date",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "integer",
+             "guid": "Количество заказов",
+             "type": "DIMENSION",
+             "title": "Количество заказов",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "integer",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "float",
+             "guid": "Сумма комиссии",
+             "type": "DIMENSION",
+             "title": "Сумма комиссии",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "float",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            },
+            {
+             "cast": "float",
+             "guid": "Средний чек",
+             "type": "DIMENSION",
+             "title": "Средний чек",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "float",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            }
+           ],
+           "title": "section_columns",
+           "required": true,
+           "settings": {
+            "groupping": "on"
+           },
+           "iconProps": {},
+           "allowedTypes": {}
+          }
+         ],
+         "allowSegments": false,
+         "allowAvailable": true,
+         "allowLayerFilters": false
+        },
+        "geopointsConfig": {}
+       }
+      },
+      "name": "Средний чек по месяцам таблица",
+      "type": "table_ql_node",
+      "version": null,
+      "annotation": {
+       "description": ""
+      }
+     }
+    },
+    "8": {
+     "widget": {
+      "data": {
+       "shared": {
+        "type": "ql",
+        "order": null,
+        "colors": [],
+        "labels": [
+         {
+          "id": "inserted-1779181368477",
+          "cast": "integer",
+          "guid": "dau",
+          "type": "DIMENSION",
+          "title": "dau",
+          "noEdit": true,
+          "calc_mode": "direct",
+          "data_type": "integer",
+          "datasetId": "ql-mocked-dataset",
+          "formulaHidden": true,
+          "inspectHidden": true
+         }
+        ],
+        "params": [],
+        "shapes": [],
+        "queries": [],
+        "version": "7",
+        "tooltips": [],
+        "chartType": "sql",
+        "connection": {
+         "type": "postgres",
+         "entryId": "1",
+         "dataExportForbidden": false
+        },
+        "queryValue": "SELECT log_date,\r\n       COUNT(DISTINCT user_id) AS DAU\r\nFROM rest_analytics.analytics_events AS events\r\nJOIN rest_analytics.cities cities ON events.city_id = cities.city_id\r\nWHERE log_date BETWEEN '2021-05-01' AND '2021-06-30'\r\n  AND city_name = 'Саранск'\r\n  AND event = 'order'\r\nGROUP BY log_date\r\nORDER BY log_date;",
+        "colorsConfig": {},
+        "shapesConfig": {},
+        "extraSettings": {
+         "feed": "",
+         "title": "Новый чарт",
+         "stacking": "on",
+         "zoomMode": "auto",
+         "titleMode": "hide",
+         "legendMode": "hide",
+         "tooltipSum": "on",
+         "mapCenterMode": "auto",
+         "labelsPosition": "outside",
+         "pivotInlineSort": "on",
+         "navigatorSettings": {
+          "selectedLines": [],
+          "isNavigatorAvailable": false
+         },
+         "indicatorTitleMode": "by-field"
+        },
+        "visualization": {
+         "id": "column",
+         "name": "label_visualization-column",
+         "type": "column",
+         "allowSort": false,
+         "iconProps": {
+          "id": "visColumn",
+          "width": "24"
+         },
+         "allowColors": true,
+         "allowLabels": true,
+         "allowFilters": false,
+         "placeholders": [
+          {
+           "id": "x",
+           "type": "x",
+           "items": [
+            {
+             "cast": "date",
+             "guid": "log_date",
+             "type": "DIMENSION",
+             "title": "log_date",
+             "format": "DD.MM.YYYY",
+             "noEdit": true,
+             "grouping": "none",
+             "calc_mode": "direct",
+             "data_type": "date",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            }
+           ],
+           "title": "section_x",
+           "capacity": 2,
+           "required": false,
+           "settings": {
+            "grid": "off",
+            "type": "linear",
+            "title": "off",
+            "gridStep": "auto",
+            "holidays": "off",
+            "hideLabels": "no",
+            "labelsView": "auto",
+            "titleValue": "",
+            "axisModeMap": {
+             "log_date": "discrete"
+            },
+            "gridStepValue": 50,
+            "axisFormatMode": "auto",
+            "axisVisibility": "show",
+            "disableAxisMode": true,
+            "axisLabelFormating": {},
+            "axisLabelDateFormat": "DD.MM.YYYY"
+           },
+           "iconProps": {},
+           "allowedTypes": {},
+           "allowedDataTypes": {}
+          },
+          {
+           "id": "y",
+           "type": "y",
+           "items": [
+            {
+             "cast": "integer",
+             "guid": "dau",
+             "type": "DIMENSION",
+             "title": "dau",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "integer",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            }
+           ],
+           "title": "section_y",
+           "settings": {
+            "grid": "on",
+            "type": "linear",
+            "nulls": "ignore",
+            "scale": "auto",
+            "title": "off",
+            "gridStep": "auto",
+            "hideLabels": "no",
+            "labelsView": "auto",
+            "scaleValue": "min-max",
+            "titleValue": "",
+            "gridStepValue": 50,
+            "axisFormatMode": "auto",
+            "axisVisibility": "show",
+            "axisLabelFormating": {},
+            "axisLabelDateFormat": "DD.MM.YYYY"
+           },
+           "iconProps": {},
+           "allowedTypes": {},
+           "allowedDataTypes": {},
+           "allowedFinalTypes": {}
+          }
+         ],
+         "allowSegments": false,
+         "allowAvailable": true,
+         "allowLayerFilters": false,
+         "availableLabelModes": [
+          "absolute"
+         ]
+        },
+        "geopointsConfig": {}
+       }
+      },
+      "name": "DAU - столбчатая диаграмма",
+      "type": "d3_ql_node",
+      "version": null,
+      "annotation": {
+       "description": ""
+      }
+     }
+    },
+    "9": {
+     "widget": {
+      "data": {
+       "shared": {
+        "type": "ql",
+        "order": null,
+        "colors": [],
+        "labels": [
+         {
+          "id": "inserted-1779016027208",
+          "cast": "float",
+          "guid": "cr",
+          "type": "DIMENSION",
+          "title": "cr",
+          "noEdit": true,
+          "calc_mode": "direct",
+          "data_type": "float",
+          "datasetId": "ql-mocked-dataset",
+          "formatting": {
+           "format": "percent",
+           "prefix": "",
+           "postfix": "",
+           "labelMode": "absolute",
+           "precision": 2,
+           "showRankDelimiter": true
+          },
+          "formulaHidden": true,
+          "hideLabelMode": "show",
+          "inspectHidden": true
+         }
+        ],
+        "params": [],
+        "shapes": [],
+        "queries": [],
+        "version": "7",
+        "tooltips": [],
+        "chartType": "sql",
+        "connection": {
+         "type": "postgres",
+         "entryId": "1",
+         "dataExportForbidden": false
+        },
+        "queryValue": "SELECT log_date,\r\n       ROUND((COUNT(DISTINCT user_id) FILTER (WHERE event = 'order'))/COUNT(DISTINCT user_id)::numeric, 2) AS CR\r\nFROM rest_analytics.analytics_events AS events\r\nJOIN rest_analytics.cities cities ON events.city_id = cities.city_id\r\nWHERE log_date BETWEEN '2021-05-01' AND '2021-06-30'\r\n  AND city_name = 'Саранск'\r\nGROUP BY log_date\r\nORDER BY log_date;",
+        "colorsConfig": {},
+        "shapesConfig": {},
+        "extraSettings": {},
+        "visualization": {
+         "id": "line",
+         "name": "label_visualization-line",
+         "type": "line",
+         "allowSort": false,
+         "iconProps": {
+          "id": "visLines",
+          "width": "24"
+         },
+         "allowColors": true,
+         "allowLabels": true,
+         "allowShapes": true,
+         "allowFilters": false,
+         "placeholders": [
+          {
+           "id": "x",
+           "type": "x",
+           "items": [
+            {
+             "cast": "date",
+             "guid": "log_date",
+             "type": "DIMENSION",
+             "title": "log_date",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "date",
+             "datasetId": "ql-mocked-dataset",
+             "formulaHidden": true,
+             "inspectHidden": true
+            }
+           ],
+           "title": "section_x",
+           "capacity": 1,
+           "required": true,
+           "settings": {
+            "grid": "off",
+            "type": "linear",
+            "title": "off",
+            "gridStep": "auto",
+            "holidays": "off",
+            "hideLabels": "no",
+            "labelsView": "auto",
+            "titleValue": "",
+            "axisModeMap": {
+             "log_date": "discrete"
+            },
+            "gridStepValue": 50,
+            "axisFormatMode": "auto",
+            "axisVisibility": "show",
+            "disableAxisMode": true,
+            "axisLabelFormating": {},
+            "axisLabelDateFormat": "DD.MM.YYYY"
+           },
+           "iconProps": {},
+           "allowedTypes": {},
+           "allowedDataTypes": {}
+          },
+          {
+           "id": "y",
+           "type": "y",
+           "items": [
+            {
+             "cast": "float",
+             "guid": "cr",
+             "type": "DIMENSION",
+             "title": "cr",
+             "noEdit": true,
+             "calc_mode": "direct",
+             "data_type": "float",
+             "datasetId": "ql-mocked-dataset",
+             "formatting": {
+              "format": "percent",
+              "prefix": "",
+              "postfix": "",
+              "labelMode": "absolute",
+              "precision": 2,
+              "showRankDelimiter": true
+             },
+             "formulaHidden": true,
+             "hideLabelMode": "show",
+             "inspectHidden": true
+            }
+           ],
+           "title": "section_y",
+           "settings": {
+            "grid": "on",
+            "type": "linear",
+            "nulls": "connect",
+            "scale": "auto",
+            "title": "off",
+            "gridStep": "auto",
+            "hideLabels": "no",
+            "labelsView": "auto",
+            "scaleValue": "min-max",
+            "titleValue": "",
+            "axisModeMap": {
+             "cr": "discrete"
+            },
+            "gridStepValue": 50,
+            "axisFormatMode": "auto",
+            "axisVisibility": "show",
+            "axisLabelFormating": {},
+            "axisLabelDateFormat": "DD.MM.YYYY"
+           },
+           "iconProps": {},
+           "allowedTypes": {},
+           "allowedDataTypes": {},
+           "allowedFinalTypes": {}
+          },
+          {
+           "id": "y2",
+           "type": "y2",
+           "items": [],
+           "title": "section_y2",
+           "settings": {
+            "grid": "on",
+            "type": "linear",
+            "nulls": "connect",
+            "scale": "auto",
+            "title": "off",
+            "gridStep": "auto",
+            "hideLabels": "no",
+            "labelsView": "auto",
+            "scaleValue": "min-max",
+            "titleValue": "",
+            "gridStepValue": 50,
+            "axisFormatMode": "auto",
+            "axisVisibility": "show",
+            "axisLabelFormating": {},
+            "axisLabelDateFormat": "DD.MM.YYYY"
+           },
+           "iconProps": {},
+           "allowedTypes": {},
+           "allowedDataTypes": {},
+           "allowedFinalTypes": {}
+          }
+         ],
+         "allowSegments": false,
+         "allowAvailable": true,
+         "colorsCapacity": 1,
+         "shapesCapacity": 1,
+         "allowLayerFilters": false,
+         "availableLabelModes": [
+          "absolute"
+         ]
+        },
+        "geopointsConfig": {}
+       }
+      },
+      "name": "CR - линейчатая диаграмма",
+      "type": "d3_ql_node",
+      "version": null,
+      "annotation": {
+       "description": ""
+      }
+     }
+    }
+   },
+   "connection": {
+    "1": {
+     "connection": {
+      "host": "<YOUR_DB_HOST>",
+      "name": "ПОДКЛЮЧЕНИЕ",
+      "port": 6432,
+      "db_name": "<YOUR_DB_NAME>",
+      "db_type": "postgres",
+      "password": "",
+      "username": "<YOUR_DB_USER>",
+      "ssl_enable": "off",
+      "description": "",
+      "workbook_id": "dr8a1e2xvqqyx",
+      "cache_ttl_sec": null,
+      "mdb_folder_id": null,
+      "raw_sql_level": "dashsql",
+      "mdb_cluster_id": null,
+      "enforce_collate": "auto",
+      "data_export_forbidden": "off",
+      "connection_manager_cloud_id": null,
+      "connection_manager_folder_id": null,
+      "connection_manager_connection_id": null,
+      "connection_manager_delegation_is_set": null,
+      "cache_invalidation_throttling_interval_sec": null
+     }
+    }
+   },
+   "dataset": {
+    "5": {
+     "dataset": {
+      "name": "rest",
+      "rls2": {},
+      "sources": [
+       {
+        "id": "38eb5951-51e3-11f1-8094-51f49ec7f271",
+        "title": "analytics_events",
+        "valid": true,
+        "virtual": false,
+        "managed_by": "user",
+        "parameters": {
+         "manual": false,
+         "db_name": null,
+         "db_version": "PostgreSQL 18.3 (Ubuntu 18.3-201-yandex.62246.5dc19800eb) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, 64-bit",
+         "table_name": "analytics_events",
+         "schema_name": "rest_analytics"
+        },
+        "raw_schema": [
+         {
+          "name": "visitor_uuid",
+          "title": "visitor_uuid",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "user_id",
+          "title": "user_id",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "bigint",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "device_type",
+          "title": "device_type",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "city_id",
+          "title": "city_id",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "bigint",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "age",
+          "title": "age",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "source",
+          "title": "source",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "first_date",
+          "title": "first_date",
+          "nullable": true,
+          "user_type": "date",
+          "description": "",
+          "native_type": {
+           "name": "date",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "visit_id",
+          "title": "visit_id",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "event",
+          "title": "event",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "datetime",
+          "title": "datetime",
+          "nullable": true,
+          "user_type": "genericdatetime",
+          "description": "",
+          "native_type": {
+           "name": "timestamp",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "log_date",
+          "title": "log_date",
+          "nullable": true,
+          "user_type": "date",
+          "description": "",
+          "native_type": {
+           "name": "date",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "rest_id",
+          "title": "rest_id",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "object_id",
+          "title": "object_id",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "bigint",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "listing_id",
+          "title": "listing_id",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "bigint",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "position",
+          "title": "position",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "bigint",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "order_id",
+          "title": "order_id",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "bigint",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "revenue",
+          "title": "revenue",
+          "nullable": true,
+          "user_type": "float",
+          "description": "",
+          "native_type": {
+           "name": "double_precision",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "delivery",
+          "title": "delivery",
+          "nullable": true,
+          "user_type": "float",
+          "description": "",
+          "native_type": {
+           "name": "double_precision",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "commission",
+          "title": "commission",
+          "nullable": true,
+          "user_type": "float",
+          "description": "",
+          "native_type": {
+           "name": "double_precision",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         }
+        ],
+        "source_type": "PG_TABLE",
+        "connection_id": "1",
+        "index_info_set": null,
+        "parameter_hash": "cb8011c76d8ff3a2"
+       },
+       {
+        "id": "47514312-51e3-11f1-8094-51f49ec7f271",
+        "title": "cities",
+        "valid": true,
+        "virtual": false,
+        "managed_by": "user",
+        "parameters": {
+         "manual": false,
+         "db_name": null,
+         "db_version": "PostgreSQL 18.3 (Ubuntu 18.3-201-yandex.62246.5dc19800eb) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, 64-bit",
+         "table_name": "cities",
+         "schema_name": "rest_analytics"
+        },
+        "raw_schema": [
+         {
+          "name": "city_id",
+          "title": "city_id",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "integer",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "city_name",
+          "title": "city_name",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         }
+        ],
+        "source_type": "PG_TABLE",
+        "connection_id": "1",
+        "index_info_set": null,
+        "parameter_hash": "5a59a2aecf485845"
+       },
+       {
+        "id": "4953c9d2-51e3-11f1-8094-51f49ec7f271",
+        "title": "dishes",
+        "valid": true,
+        "virtual": false,
+        "managed_by": "user",
+        "parameters": {
+         "manual": false,
+         "db_name": null,
+         "db_version": "PostgreSQL 18.3 (Ubuntu 18.3-201-yandex.62246.5dc19800eb) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, 64-bit",
+         "table_name": "dishes",
+         "schema_name": "rest_analytics"
+        },
+        "raw_schema": [
+         {
+          "name": "object_id",
+          "title": "object_id",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "bigint",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "name",
+          "title": "name",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "spicy",
+          "title": "spicy",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "integer",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "fish",
+          "title": "fish",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "integer",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "meat",
+          "title": "meat",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "integer",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "rest_id",
+          "title": "rest_id",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         }
+        ],
+        "source_type": "PG_TABLE",
+        "connection_id": "1",
+        "index_info_set": null,
+        "parameter_hash": "92f567c70b816bc0"
+       },
+       {
+        "id": "4b565092-51e3-11f1-8094-51f49ec7f271",
+        "title": "partners",
+        "valid": true,
+        "virtual": false,
+        "managed_by": "user",
+        "parameters": {
+         "manual": false,
+         "db_name": null,
+         "db_version": "PostgreSQL 18.3 (Ubuntu 18.3-201-yandex.62246.5dc19800eb) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, 64-bit",
+         "table_name": "partners",
+         "schema_name": "rest_analytics"
+        },
+        "raw_schema": [
+         {
+          "name": "rest_id",
+          "title": "rest_id",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "chain",
+          "title": "chain",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "type",
+          "title": "type",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "city_id",
+          "title": "city_id",
+          "nullable": true,
+          "user_type": "integer",
+          "description": "",
+          "native_type": {
+           "name": "bigint",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "commission",
+          "title": "commission",
+          "nullable": true,
+          "user_type": "float",
+          "description": "",
+          "native_type": {
+           "name": "double_precision",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         }
+        ],
+        "source_type": "PG_TABLE",
+        "connection_id": "1",
+        "index_info_set": null,
+        "parameter_hash": "5fab3c916d9ea555"
+       },
+       {
+        "id": "4cfad8d2-51e3-11f1-8094-51f49ec7f271",
+        "title": "advertisement_budgets",
+        "valid": true,
+        "virtual": false,
+        "managed_by": "user",
+        "parameters": {
+         "manual": false,
+         "db_name": null,
+         "db_version": "PostgreSQL 18.3 (Ubuntu 18.3-201-yandex.62246.5dc19800eb) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0, 64-bit",
+         "table_name": "advertisement_budgets",
+         "schema_name": "rest_analytics"
+        },
+        "raw_schema": [
+         {
+          "name": "source",
+          "title": "source",
+          "nullable": true,
+          "user_type": "string",
+          "description": "",
+          "native_type": {
+           "name": "varchar",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "date",
+          "title": "date",
+          "nullable": true,
+          "user_type": "date",
+          "description": "",
+          "native_type": {
+           "name": "date",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         },
+         {
+          "name": "budget",
+          "title": "budget",
+          "nullable": true,
+          "user_type": "float",
+          "description": "",
+          "native_type": {
+           "name": "double_precision",
+           "nullable": true,
+           "native_type_class_name": "common_native_type"
+          },
+          "lock_aggregation": false,
+          "has_auto_aggregation": false
+         }
+        ],
+        "source_type": "PG_TABLE",
+        "connection_id": "1",
+        "index_info_set": null,
+        "parameter_hash": "59ba81e63d61fae7"
+       }
+      ],
+      "description": "",
+      "revision_id": null,
+      "result_schema": [
+       {
+        "cast": "integer",
+        "guid": "df8d3510-51e5-11f1-8094-51f49ec7f271",
+        "type": "DIMENSION",
+        "title": "Месяц",
+        "valid": true,
+        "hidden": false,
+        "source": "",
+        "formula": "MONTH([first_date])",
+        "virtual": false,
+        "avatar_id": null,
+        "calc_mode": "formula",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "MONTH([first_date_5h68])",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": true,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "visitor_uuid_cj77",
+        "type": "DIMENSION",
+        "title": "visitor_uuid",
+        "valid": true,
+        "hidden": false,
+        "source": "visitor_uuid",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "user_id_hqlt",
+        "type": "DIMENSION",
+        "title": "user_id",
+        "valid": true,
+        "hidden": false,
+        "source": "user_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "device_type_82zs",
+        "type": "DIMENSION",
+        "title": "device_type",
+        "valid": true,
+        "hidden": false,
+        "source": "device_type",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "city_id_7wrc",
+        "type": "DIMENSION",
+        "title": "city_id",
+        "valid": true,
+        "hidden": false,
+        "source": "city_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "age_hym7",
+        "type": "DIMENSION",
+        "title": "age",
+        "valid": true,
+        "hidden": false,
+        "source": "age",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "source_pe4z",
+        "type": "DIMENSION",
+        "title": "source",
+        "valid": true,
+        "hidden": false,
+        "source": "source",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "date",
+        "guid": "first_date_5h68",
+        "type": "DIMENSION",
+        "title": "first_date",
+        "valid": true,
+        "hidden": false,
+        "source": "first_date",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "date",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "date",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "visit_id_8s6x",
+        "type": "DIMENSION",
+        "title": "visit_id",
+        "valid": true,
+        "hidden": false,
+        "source": "visit_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "event_lnr4",
+        "type": "DIMENSION",
+        "title": "event",
+        "valid": true,
+        "hidden": false,
+        "source": "event",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "genericdatetime",
+        "guid": "datetime_e9hs",
+        "type": "DIMENSION",
+        "title": "datetime",
+        "valid": true,
+        "hidden": false,
+        "source": "datetime",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "genericdatetime",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "genericdatetime",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "date",
+        "guid": "log_date_3c52",
+        "type": "DIMENSION",
+        "title": "log_date",
+        "valid": true,
+        "hidden": false,
+        "source": "log_date",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "date",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "date",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "rest_id_fpuf",
+        "type": "DIMENSION",
+        "title": "rest_id",
+        "valid": true,
+        "hidden": false,
+        "source": "rest_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "object_id_i1t9",
+        "type": "DIMENSION",
+        "title": "object_id",
+        "valid": true,
+        "hidden": false,
+        "source": "object_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "listing_id_vwx3",
+        "type": "DIMENSION",
+        "title": "listing_id",
+        "valid": true,
+        "hidden": false,
+        "source": "listing_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "position_0jzo",
+        "type": "DIMENSION",
+        "title": "position",
+        "valid": true,
+        "hidden": false,
+        "source": "position",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "order_id_zoxa",
+        "type": "DIMENSION",
+        "title": "order_id",
+        "valid": true,
+        "hidden": false,
+        "source": "order_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "float",
+        "guid": "revenue_97wm",
+        "type": "DIMENSION",
+        "title": "revenue",
+        "valid": true,
+        "hidden": false,
+        "source": "revenue",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "float",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "float",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "float",
+        "guid": "delivery_6go3",
+        "type": "DIMENSION",
+        "title": "delivery",
+        "valid": true,
+        "hidden": false,
+        "source": "delivery",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "float",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "float",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "float",
+        "guid": "commission_uliq",
+        "type": "DIMENSION",
+        "title": "commission",
+        "valid": true,
+        "hidden": false,
+        "source": "commission",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "float",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "float",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "city_id_1_h7xs",
+        "type": "DIMENSION",
+        "title": "city_id (1)",
+        "valid": true,
+        "hidden": false,
+        "source": "city_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "47514310-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "city_name_3f9h",
+        "type": "DIMENSION",
+        "title": "city_name",
+        "valid": true,
+        "hidden": false,
+        "source": "city_name",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "47514310-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "object_id_1_eozl",
+        "type": "DIMENSION",
+        "title": "object_id (1)",
+        "valid": true,
+        "hidden": false,
+        "source": "object_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4953c9d0-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "name_am0c",
+        "type": "DIMENSION",
+        "title": "name",
+        "valid": true,
+        "hidden": false,
+        "source": "name",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4953c9d0-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "spicy_nhum",
+        "type": "DIMENSION",
+        "title": "spicy",
+        "valid": true,
+        "hidden": false,
+        "source": "spicy",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4953c9d0-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "fish_amo2",
+        "type": "DIMENSION",
+        "title": "fish",
+        "valid": true,
+        "hidden": false,
+        "source": "fish",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4953c9d0-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "meat_8ada",
+        "type": "DIMENSION",
+        "title": "meat",
+        "valid": true,
+        "hidden": false,
+        "source": "meat",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4953c9d0-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "rest_id_1_l5vd",
+        "type": "DIMENSION",
+        "title": "rest_id (1)",
+        "valid": true,
+        "hidden": false,
+        "source": "rest_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4953c9d0-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "rest_id_2_yrhq",
+        "type": "DIMENSION",
+        "title": "rest_id (2)",
+        "valid": true,
+        "hidden": false,
+        "source": "rest_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4b565090-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "chain_7ukc",
+        "type": "DIMENSION",
+        "title": "chain",
+        "valid": true,
+        "hidden": false,
+        "source": "chain",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4b565090-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "type_2y0x",
+        "type": "DIMENSION",
+        "title": "type",
+        "valid": true,
+        "hidden": false,
+        "source": "type",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4b565090-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "integer",
+        "guid": "city_id_2_5gvi",
+        "type": "DIMENSION",
+        "title": "city_id (2)",
+        "valid": true,
+        "hidden": false,
+        "source": "city_id",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4b565090-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "integer",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "integer",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "float",
+        "guid": "commission_1_7e7h",
+        "type": "DIMENSION",
+        "title": "commission (1)",
+        "valid": true,
+        "hidden": false,
+        "source": "commission",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4b565090-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "float",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "float",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "string",
+        "guid": "source_1_zrdz",
+        "type": "DIMENSION",
+        "title": "source (1)",
+        "valid": true,
+        "hidden": false,
+        "source": "source",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4cfad8d0-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "string",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "string",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "date",
+        "guid": "date_jjtn",
+        "type": "DIMENSION",
+        "title": "date",
+        "valid": true,
+        "hidden": false,
+        "source": "date",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4cfad8d0-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "date",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "date",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       },
+       {
+        "cast": "float",
+        "guid": "budget_cvew",
+        "type": "DIMENSION",
+        "title": "budget",
+        "valid": true,
+        "hidden": false,
+        "source": "budget",
+        "formula": "",
+        "virtual": false,
+        "avatar_id": "4cfad8d0-51e3-11f1-8094-51f49ec7f271",
+        "calc_mode": "direct",
+        "data_type": "float",
+        "managed_by": "user",
+        "aggregation": "none",
+        "description": "",
+        "ui_settings": "",
+        "guid_formula": "",
+        "default_value": null,
+        "autoaggregated": false,
+        "lock_aggregation": false,
+        "value_constraint": null,
+        "initial_data_type": "float",
+        "aggregation_locked": false,
+        "has_auto_aggregation": false
+       }
+      ],
+      "query_settings": {},
+      "source_avatars": [
+       {
+        "id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "title": "rest_analytics.analytics_events",
+        "valid": true,
+        "is_root": true,
+        "virtual": false,
+        "source_id": "38eb5951-51e3-11f1-8094-51f49ec7f271",
+        "managed_by": "user"
+       },
+       {
+        "id": "47514310-51e3-11f1-8094-51f49ec7f271",
+        "title": "rest_analytics.cities",
+        "valid": true,
+        "is_root": false,
+        "virtual": false,
+        "source_id": "47514312-51e3-11f1-8094-51f49ec7f271",
+        "managed_by": "user"
+       },
+       {
+        "id": "4953c9d0-51e3-11f1-8094-51f49ec7f271",
+        "title": "rest_analytics.dishes",
+        "valid": true,
+        "is_root": false,
+        "virtual": false,
+        "source_id": "4953c9d2-51e3-11f1-8094-51f49ec7f271",
+        "managed_by": "user"
+       },
+       {
+        "id": "4b565090-51e3-11f1-8094-51f49ec7f271",
+        "title": "rest_analytics.partners",
+        "valid": true,
+        "is_root": false,
+        "virtual": false,
+        "source_id": "4b565092-51e3-11f1-8094-51f49ec7f271",
+        "managed_by": "user"
+       },
+       {
+        "id": "4cfad8d0-51e3-11f1-8094-51f49ec7f271",
+        "title": "rest_analytics.advertisement_budgets",
+        "valid": true,
+        "is_root": false,
+        "virtual": false,
+        "source_id": "4cfad8d2-51e3-11f1-8094-51f49ec7f271",
+        "managed_by": "user"
+       }
+      ],
+      "preview_enabled": true,
+      "avatar_relations": [
+       {
+        "id": "47514311-51e3-11f1-8094-51f49ec7f271",
+        "virtual": false,
+        "required": false,
+        "join_type": "inner",
+        "conditions": [
+         {
+          "left": {
+           "source": "city_id",
+           "calc_mode": "direct"
+          },
+          "type": "binary",
+          "right": {
+           "source": "city_id",
+           "calc_mode": "direct"
+          },
+          "operator": "eq"
+         }
+        ],
+        "managed_by": "user",
+        "left_avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "right_avatar_id": "47514310-51e3-11f1-8094-51f49ec7f271"
+       },
+       {
+        "id": "4953c9d1-51e3-11f1-8094-51f49ec7f271",
+        "virtual": false,
+        "required": false,
+        "join_type": "inner",
+        "conditions": [
+         {
+          "left": {
+           "source": "object_id",
+           "calc_mode": "direct"
+          },
+          "type": "binary",
+          "right": {
+           "source": "object_id",
+           "calc_mode": "direct"
+          },
+          "operator": "eq"
+         }
+        ],
+        "managed_by": "user",
+        "left_avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "right_avatar_id": "4953c9d0-51e3-11f1-8094-51f49ec7f271"
+       },
+       {
+        "id": "4b565091-51e3-11f1-8094-51f49ec7f271",
+        "virtual": false,
+        "required": false,
+        "join_type": "inner",
+        "conditions": [
+         {
+          "left": {
+           "source": "city_id",
+           "calc_mode": "direct"
+          },
+          "type": "binary",
+          "right": {
+           "source": "city_id",
+           "calc_mode": "direct"
+          },
+          "operator": "eq"
+         }
+        ],
+        "managed_by": "user",
+        "left_avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "right_avatar_id": "4b565090-51e3-11f1-8094-51f49ec7f271"
+       },
+       {
+        "id": "4cfad8d1-51e3-11f1-8094-51f49ec7f271",
+        "virtual": false,
+        "required": false,
+        "join_type": "inner",
+        "conditions": [
+         {
+          "left": {
+           "source": "source",
+           "calc_mode": "direct"
+          },
+          "type": "binary",
+          "right": {
+           "source": "source",
+           "calc_mode": "direct"
+          },
+          "operator": "eq"
+         }
+        ],
+        "managed_by": "user",
+        "left_avatar_id": "38eb5950-51e3-11f1-8094-51f49ec7f271",
+        "right_avatar_id": "4cfad8d0-51e3-11f1-8094-51f49ec7f271"
+       }
+      ],
+      "component_errors": {
+       "items": []
+      },
+      "template_enabled": false,
+      "result_schema_aux": {
+       "inter_dependencies": {
+        "deps": [
+         {
+          "dep_field_id": "df8d3510-51e5-11f1-8094-51f49ec7f271",
+          "ref_field_ids": [
+           "first_date_5h68"
+          ]
+         }
+        ]
+       }
+      },
+      "obligatory_filters": [],
+      "data_export_forbidden": false,
+      "load_preview_by_default": true,
+      "cache_invalidation_source": {
+       "sql": null,
+       "mode": "off",
+       "field": null,
+       "filters": [],
+       "cache_invalidation_error": null
+      }
+     }
+    }
+   }
+  }
+ },
+ "hash": "a9414a676abf3d4bf4f69e4eed1b712b053f4ddcddd2020ddf555eb3db6e0555"
+}

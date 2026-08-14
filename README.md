@@ -12,6 +12,7 @@
 |---|---|---|
 | [moscow-restaurants](moscow-restaurants/) | Исследовательский анализ рынка общественного питания Москвы: категории, география, сетевые форматы, цены и рейтинги | pandas, seaborn, matplotlib, phik |
 | [gym-churn](gym-churn/) | Прогноз оттока клиентов сети фитнес-центров, сегментация клиентской базы и рекомендации по удержанию | pandas, scikit-learn (Random Forest, K-Means), seaborn, matplotlib |
+| [product-analytics-dashboard](product-analytics-dashboard/) | Дашборд по сервису доставки еды в Саранске (май — июнь 2021): DAU, конверсия, средний чек, удержание и LTV ресторанов, с аналитической запиской — [живой дашборд](https://datalens.yandex/1fw4wty8do7yl?tab=mW) ↗ | Yandex DataLens, PostgreSQL |
 
 Репозиторий пополняется по мере прохождения курса.
 
